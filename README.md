@@ -1,7 +1,9 @@
 # Node.js Calculator Bot with Wit.ai Sample
 
 >This application demonstrates a simple Node.js application with Express framework.
+
 >Simple Calculator Bot to do simple operations (+ - / *) [Server Side]
+
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/nodejs-helloworld)
 
